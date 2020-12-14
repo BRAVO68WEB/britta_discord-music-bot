@@ -24,7 +24,7 @@
     "grunt-bump": "^0.8.0",
     "https": "^1.0.0",
     "jimp": "^0.14.0",
-    "mongoose": "^5.9.25",
+    "mongoose": "^5.11.7",
     "ms": "^2.1.2",
     "request": "^2.88.2",
     "spotify-web-api-js": "^1.4.0",
